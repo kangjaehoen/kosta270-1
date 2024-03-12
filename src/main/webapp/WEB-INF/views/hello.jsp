@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<b>안녕하세요 적당히 바람이 시원해 기분이 너무 좋아요</b>
+<h3>Hello Git!!!</h3>
 </body>
 </html>
